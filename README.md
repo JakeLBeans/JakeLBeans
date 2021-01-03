@@ -17,54 +17,51 @@
     <img src="https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker" alt="docker"/>
   </a>
   <a href="https://www.electronjs.org" target="_blank">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/-Electron-333333?style=flat&logo=electron" alt="electron"/>
   </a>
   <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" alt="git"/>
   </a>
   <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5" alt="html5"/>
   </a>
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/-Adobe Illustrator-333333?style=flat&logo=adobe-illustrator" alt="illustrator"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" alt="javascript"/>
   </a>
   <a href="https://www.linux.org/" target="_blank">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux" alt="linux"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql" alt="mysql"/>
   </a>
   <a href="https://nodejs.org" target="_blank">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/-Node.js-333333?style=flat&logo=nodejs" alt="nodejs"/>
   </a>
   <a href="https://www.photoshop.com/en" target="_blank">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/-Adobe Photoshop-333333?style=flat&logo=adobe-photoshop" alt="photoshop"/>
   </a>
   <a href="https://www.php.net" target="_blank">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/-PHP-333333?style=flat&logo=php" alt="php"/>
   </a>
   <a href="https://www.python.org" target="_blank">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python" alt="python"/>
   </a>
   <a href="https://reactjs.org/" target="_blank">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://reactnative.dev/" target="_blank">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/-React-333333?style=flat&logo=react" alt="react"/>
   </a>
   <a href="https://sass-lang.com" target="_blank">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/-Sass-333333?style=flat&logo=sass" alt="sass"/>
   </a>
   <a href="https://www.selenium.dev" target="_blank">
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/-Selenium-333333" alt="selenium"/>
   </a>
   <a href="https://www.sketch.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/-Sketch-333333?style=flat&logo=sketch" alt="sketch"/>
   </a>
   <a href="https://www.adobe.com/products/xd.html" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/-Sketch-333333?style=flat&logo=adobe-xd" alt="xd"/>
   </a>
 </p>
