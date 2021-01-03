@@ -36,11 +36,6 @@
       </a>
     </li>
     <li>
-      <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank">
-        <img src="https://img.shields.io/badge/-Adobe Illustrator-333333?style=flat&logo=adobe-illustrator" alt="illustrator"/>
-      </a>
-    </li>
-    <li>
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
         <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" alt="javascript"/>
       </a>
