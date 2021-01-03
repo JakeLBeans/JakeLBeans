@@ -31,11 +31,6 @@
       </a>
     </li>
     <li>
-      <a href="https://git-scm.com/" target="_blank">
-        <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" alt="git"/>
-      </a>
-    </li>
-    <li>
       <a href="https://www.w3.org/html/" target="_blank">
         <img src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5" alt="html5"/>
       </a>
@@ -48,11 +43,6 @@
     <li>
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
         <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" alt="javascript"/>
-      </a>
-    </li>
-    <li>
-      <a href="https://www.linux.org/" target="_blank">
-        <img src="https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux" alt="linux"/>
       </a>
     </li>
     <li>
@@ -83,6 +73,16 @@
     <li>
       <a href="https://sass-lang.com" target="_blank">
         <img src="https://img.shields.io/badge/-Sass-333333?style=flat&logo=sass" alt="sass"/>
+      </a>
+    </li>
+    <li>
+      <a href="https://www.linux.org/" target="_blank">
+        <img src="https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux" alt="linux"/>
+      </a>
+    </li>
+    <li>
+      <a href="https://git-scm.com/" target="_blank">
+        <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" alt="git"/>
       </a>
     </li>
   </ul>
