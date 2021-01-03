@@ -5,16 +5,16 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://babeljs.io/" target="_blank">
-    <img src="https://img.shields.io/badge/-Babel-333333?style=flat&logo=babel" alt="babel" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/-Babel-333333?style=flat&logo=babel" alt="babel"/>
   </a>
   <a href="https://getbootstrap.com" target="_blank">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap" alt="bootstrap"/>
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3" alt="css3"/>
   </a>
   <a href="https://www.docker.com/" target="_blank">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker" alt="docker"/>
   </a>
   <a href="https://www.electronjs.org" target="_blank">
     <img src="https://devicons.github.io/devicon/devicon.git/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/>
