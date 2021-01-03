@@ -113,5 +113,3 @@
     </li>
   </ul>
 </p>
-
-<img height="180em" src="https://github-readme-stats-three-sepia.vercel.app/api/top-langs/?username=JakeLBeans&layout=compact&exclude_repo=github-readme-stats&theme=nord" />
