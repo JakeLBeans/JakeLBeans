@@ -108,7 +108,7 @@
     </li>
     <li>
       <a href="https://www.adobe.com/products/xd.html" target="_blank">
-        <img src="https://img.shields.io/badge/-Sketch-333333?style=flat&logo=adobe-xd" alt="xd"/>
+        <img src="https://img.shields.io/badge/-Adobe XD-333333?style=flat&logo=adobe-xd" alt="xd"/>
       </a>
     </li>
   </ul>
