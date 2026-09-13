@@ -33,11 +33,11 @@ curious_by_nature
 
 ### Connect with me
 
-<a href="https://linkedin.com/in/jakelovelock" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0D0F13?style=for-the-badge&logo=linkedin&logoColor=B6EC13" alt="LinkedIn" /></a>
-<a href="https://www.behance.net/jakelovelock" target="_blank"><img src="https://img.shields.io/badge/Behance-0D0F13?style=for-the-badge&logo=behance&logoColor=B6EC13" alt="Behance" /></a>
-<a href="https://medium.com/@jakeIovelock" target="_blank"><img src="https://img.shields.io/badge/Medium-0D0F13?style=for-the-badge&logo=medium&logoColor=B6EC13" alt="Medium" /></a>
-<a href="https://dev.to/l0vel0ck" target="_blank"><img src="https://img.shields.io/badge/dev.to-0D0F13?style=for-the-badge&logo=devdotto&logoColor=B6EC13" alt="Dev.to" /></a>
-<a href="mailto:hello@jakelovelock.com"><img src="https://img.shields.io/badge/Email-0D0F13?style=for-the-badge&logo=gmail&logoColor=B6EC13" alt="Email" /></a>
+<a href="https://linkedin.com/in/jakelovelock" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-B6EC13?style=for-the-badge&logo=linkedin&logoColor=0D0F13" alt="LinkedIn" /></a>
+<a href="https://www.behance.net/jakelovelock" target="_blank"><img src="https://img.shields.io/badge/Behance-B6EC13?style=for-the-badge&logo=behance&logoColor=0D0F13" alt="Behance" /></a>
+<a href="https://medium.com/@jakeIovelock" target="_blank"><img src="https://img.shields.io/badge/Medium-B6EC13?style=for-the-badge&logo=medium&logoColor=0D0F13" alt="Medium" /></a>
+<a href="https://dev.to/l0vel0ck" target="_blank"><img src="https://img.shields.io/badge/dev.to-B6EC13?style=for-the-badge&logo=devdotto&logoColor=0D0F13" alt="Dev.to" /></a>
+<a href="mailto:hello@jakelovelock.com"><img src="https://img.shields.io/badge/Email-B6EC13?style=for-the-badge&logo=gmail&logoColor=0D0F13" alt="Email" /></a>
 
 </div>
 
@@ -53,41 +53,41 @@ curious_by_nature
 
 **Development**
 <br/>
-<img src="https://img.shields.io/badge/HTML5-0D0F13?style=flat-square&logo=html5&logoColor=B6EC13" />
-<img src="https://img.shields.io/badge/CSS3-0D0F13?style=flat-square&logo=css3&logoColor=B6EC13" />
-<img src="https://img.shields.io/badge/JavaScript-0D0F13?style=flat-square&logo=javascript&logoColor=B6EC13" />
-<img src="https://img.shields.io/badge/React-0D0F13?style=flat-square&logo=react&logoColor=B6EC13" />
-<img src="https://img.shields.io/badge/Node.js-0D0F13?style=flat-square&logo=nodedotjs&logoColor=B6EC13" />
-<img src="https://img.shields.io/badge/PHP-0D0F13?style=flat-square&logo=php&logoColor=B6EC13" />
-<img src="https://img.shields.io/badge/Python-0D0F13?style=flat-square&logo=python&logoColor=B6EC13" />
+<img src="https://img.shields.io/badge/HTML5-B6EC13?style=flat-square&logo=html5&logoColor=0D0F13" />
+<img src="https://img.shields.io/badge/CSS3-B6EC13?style=flat-square&logo=css3&logoColor=0D0F13" />
+<img src="https://img.shields.io/badge/JavaScript-B6EC13?style=flat-square&logo=javascript&logoColor=0D0F13" />
+<img src="https://img.shields.io/badge/React-B6EC13?style=flat-square&logo=react&logoColor=0D0F13" />
+<img src="https://img.shields.io/badge/Node.js-B6EC13?style=flat-square&logo=nodedotjs&logoColor=0D0F13" />
+<img src="https://img.shields.io/badge/PHP-B6EC13?style=flat-square&logo=php&logoColor=0D0F13" />
+<img src="https://img.shields.io/badge/Python-B6EC13?style=flat-square&logo=python&logoColor=0D0F13" />
 
 <br/><br/>
 
 **Cyber Security**
 <br/>
-<img src="https://img.shields.io/badge/Network_Security-0D0F13?style=flat-square" />
-<img src="https://img.shields.io/badge/Linux-0D0F13?style=flat-square&logo=linux&logoColor=B6EC13" />
-<img src="https://img.shields.io/badge/SQL-0D0F13?style=flat-square&logo=mysql&logoColor=B6EC13" />
-<img src="https://img.shields.io/badge/Threat_Detection-0D0F13?style=flat-square" />
+<img src="https://img.shields.io/badge/Network_Security-B6EC13?style=flat-square" />
+<img src="https://img.shields.io/badge/Linux-B6EC13?style=flat-square&logo=linux&logoColor=0D0F13" />
+<img src="https://img.shields.io/badge/SQL-B6EC13?style=flat-square&logo=mysql&logoColor=0D0F13" />
+<img src="https://img.shields.io/badge/Threat_Detection-B6EC13?style=flat-square" />
 
 <br/><br/>
 
 **Design**
 <br/>
-<img src="https://img.shields.io/badge/Figma-0D0F13?style=flat-square&logo=figma&logoColor=B6EC13" />
-<img src="https://img.shields.io/badge/Sketch-0D0F13?style=flat-square&logo=sketch&logoColor=B6EC13" />
-<img src="https://img.shields.io/badge/Illustrator-0D0F13?style=flat-square&logo=adobeillustrator&logoColor=B6EC13" />
-<img src="https://img.shields.io/badge/Photoshop-0D0F13?style=flat-square&logo=adobephotoshop&logoColor=B6EC13" />
+<img src="https://img.shields.io/badge/Figma-B6EC13?style=flat-square&logo=figma&logoColor=0D0F13" />
+<img src="https://img.shields.io/badge/Sketch-B6EC13?style=flat-square&logo=sketch&logoColor=0D0F13" />
+<img src="https://img.shields.io/badge/Illustrator-B6EC13?style=flat-square&logo=adobeillustrator&logoColor=0D0F13" />
+<img src="https://img.shields.io/badge/Photoshop-B6EC13?style=flat-square&logo=adobephotoshop&logoColor=0D0F13" />
 
 <br/><br/>
 
 **Tools**
 <br/>
-<img src="https://img.shields.io/badge/Git-0D0F13?style=flat-square&logo=git&logoColor=B6EC13" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-0D0F13?style=flat-square&logo=tailwindcss&logoColor=B6EC13" />
-<img src="https://img.shields.io/badge/Sass-0D0F13?style=flat-square&logo=sass&logoColor=B6EC13" />
-<img src="https://img.shields.io/badge/Vercel-0D0F13?style=flat-square&logo=vercel&logoColor=B6EC13" />
-<img src="https://img.shields.io/badge/Supabase-0D0F13?style=flat-square&logo=supabase&logoColor=B6EC13" />
+<img src="https://img.shields.io/badge/Git-B6EC13?style=flat-square&logo=git&logoColor=0D0F13" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-B6EC13?style=flat-square&logo=tailwindcss&logoColor=0D0F13" />
+<img src="https://img.shields.io/badge/Sass-B6EC13?style=flat-square&logo=sass&logoColor=0D0F13" />
+<img src="https://img.shields.io/badge/Vercel-B6EC13?style=flat-square&logo=vercel&logoColor=0D0F13" />
+<img src="https://img.shields.io/badge/Supabase-B6EC13?style=flat-square&logo=supabase&logoColor=0D0F13" />
 
 </div>
 
