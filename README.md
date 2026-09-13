@@ -1,29 +1,108 @@
-<h1 align="center">Hi 👋, I'm Jake</h1>
-<h3 align="center">Building & Breaking Things <br/> Creative by trade. <br/> curious_by_nature</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jakelbeans&label=Profile%20Views&color=7cf718&style=flat-square" alt="jakelbeans" /> </p>
+<img src="./banner.svg" alt="Jake Lovelock — Building & Breaking Things" width="100%" />
 
-- 🔭 I’m currently working on [PetPortal](https://getpetportal.com)
+<br/>
 
-- 🌱 I’m currently learning **Cyber Security**
+<a href="https://jakelovelock.com">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=B6EC13&background=00000000&center=true&vCenter=true&width=480&height=50&lines=Creative+by+trade.;curious_by_nature;Building+%26+Breaking+Things" alt="Typing SVG" />
+</a>
 
-- 👨‍💻 All of my projects are available at [https://jakelovelock.com](https://jakelovelock.com)
+<img src="https://komarev.com/ghpvc/?username=jakelbeans&label=Profile%20Views&color=B6EC13&style=for-the-badge" alt="jakelbeans profile views" />
 
-- 📝 I regularly write articles on [https://medium.com/@jakeIovelock](https://medium.com/@jakeIovelock)
+</div>
 
-- 📫 How to reach me **hello@jakelovelock.com**
+<br/>
 
-- 📄 Know about my experiences [https://jakelovelock.com/resume](https://jakelovelock.com/resume)
+```
+jake@lovelock ~ % whoami
+curious_by_nature
+```
 
-- ⚡ Fun fact **I think I'm funny**
+- 🔭 Currently building **[PetPortal](https://getpetportal.com)** — a SaaS management platform for pet boarding businesses
+- 🌱 Currently learning **Cyber Security** — working through the Google Cybersecurity Professional Certificate
+- 👨‍💻 All of my projects live at **[jakelovelock.com](https://jakelovelock.com)**
+- 📝 I write on **[Medium](https://medium.com/@jakeIovelock)**
+- 📄 My full experience is at **[jakelovelock.com/resume](https://jakelovelock.com/resume)**
+- 📫 Reach me at **hello@jakelovelock.com**
+- ⚡ Fun fact: **I think I'm funny**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/l0vel0ck" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="l0vel0ck" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jakelovelock" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jakelovelock" height="30" width="40" /></a>
-<a href="https://www.behance.net/jakelovelock" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="jakelovelock" height="30" width="40" /></a>
-<a href="https://medium.com/@jakeiovelock" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jakeiovelock" height="30" width="40" /></a>
-</p>
+<br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<div align="center">
+
+### Connect with me
+
+<a href="https://linkedin.com/in/jakelovelock" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0D0F13?style=for-the-badge&logo=linkedin&logoColor=B6EC13" alt="LinkedIn" /></a>
+<a href="https://www.behance.net/jakelovelock" target="_blank"><img src="https://img.shields.io/badge/Behance-0D0F13?style=for-the-badge&logo=behance&logoColor=B6EC13" alt="Behance" /></a>
+<a href="https://medium.com/@jakeIovelock" target="_blank"><img src="https://img.shields.io/badge/Medium-0D0F13?style=for-the-badge&logo=medium&logoColor=B6EC13" alt="Medium" /></a>
+<a href="https://dev.to/l0vel0ck" target="_blank"><img src="https://img.shields.io/badge/dev.to-0D0F13?style=for-the-badge&logo=devdotto&logoColor=B6EC13" alt="Dev.to" /></a>
+<a href="mailto:hello@jakelovelock.com"><img src="https://img.shields.io/badge/Email-0D0F13?style=for-the-badge&logo=gmail&logoColor=B6EC13" alt="Email" /></a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### Expertise
+
+</div>
+
+<div align="center">
+
+**Development**
+<br/>
+<img src="https://img.shields.io/badge/HTML5-0D0F13?style=flat-square&logo=html5&logoColor=B6EC13" />
+<img src="https://img.shields.io/badge/CSS3-0D0F13?style=flat-square&logo=css3&logoColor=B6EC13" />
+<img src="https://img.shields.io/badge/JavaScript-0D0F13?style=flat-square&logo=javascript&logoColor=B6EC13" />
+<img src="https://img.shields.io/badge/React-0D0F13?style=flat-square&logo=react&logoColor=B6EC13" />
+<img src="https://img.shields.io/badge/Node.js-0D0F13?style=flat-square&logo=nodedotjs&logoColor=B6EC13" />
+<img src="https://img.shields.io/badge/PHP-0D0F13?style=flat-square&logo=php&logoColor=B6EC13" />
+<img src="https://img.shields.io/badge/Python-0D0F13?style=flat-square&logo=python&logoColor=B6EC13" />
+
+<br/><br/>
+
+**Cyber Security**
+<br/>
+<img src="https://img.shields.io/badge/Network_Security-0D0F13?style=flat-square" />
+<img src="https://img.shields.io/badge/Linux-0D0F13?style=flat-square&logo=linux&logoColor=B6EC13" />
+<img src="https://img.shields.io/badge/SQL-0D0F13?style=flat-square&logo=mysql&logoColor=B6EC13" />
+<img src="https://img.shields.io/badge/Threat_Detection-0D0F13?style=flat-square" />
+
+<br/><br/>
+
+**Design**
+<br/>
+<img src="https://img.shields.io/badge/Figma-0D0F13?style=flat-square&logo=figma&logoColor=B6EC13" />
+<img src="https://img.shields.io/badge/Sketch-0D0F13?style=flat-square&logo=sketch&logoColor=B6EC13" />
+<img src="https://img.shields.io/badge/Illustrator-0D0F13?style=flat-square&logo=adobeillustrator&logoColor=B6EC13" />
+<img src="https://img.shields.io/badge/Photoshop-0D0F13?style=flat-square&logo=adobephotoshop&logoColor=B6EC13" />
+
+<br/><br/>
+
+**Tools**
+<br/>
+<img src="https://img.shields.io/badge/Git-0D0F13?style=flat-square&logo=git&logoColor=B6EC13" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-0D0F13?style=flat-square&logo=tailwindcss&logoColor=B6EC13" />
+<img src="https://img.shields.io/badge/Sass-0D0F13?style=flat-square&logo=sass&logoColor=B6EC13" />
+<img src="https://img.shields.io/badge/Vercel-0D0F13?style=flat-square&logo=vercel&logoColor=B6EC13" />
+<img src="https://img.shields.io/badge/Supabase-0D0F13?style=flat-square&logo=supabase&logoColor=B6EC13" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=jakelbeans&background=0D0F13&ring=B6EC13&fire=B6EC13&currStreakLabel=B6EC13&sideLabels=F5F5F5&currStreakNum=F5F5F5&sideNums=F5F5F5&dates=8A8F98&border=0D0F13&stroke=0D0F13" alt="GitHub Streak" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<sub>Build it. `[ break it ]`</sub>
+
+</div>
