@@ -4,10 +4,6 @@
 
 <br/>
 
-<a href="https://jakelovelock.com">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=B6EC13&background=00000000&center=true&vCenter=true&width=480&height=50&lines=Creative+by+trade.;curious_by_nature;Building+%26+Breaking+Things" alt="Typing SVG" />
-</a>
-
 <img src="https://komarev.com/ghpvc/?username=jakelbeans&label=Profile%20Views&color=B6EC13&style=for-the-badge" alt="jakelbeans profile views" />
 
 </div>
